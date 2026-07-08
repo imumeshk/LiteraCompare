@@ -112,8 +112,8 @@ $script:systemRequirementsJson = $null
 $script:selectedUser = $env:USERNAME
 $script:prerequisitesJson = $null
 $script:lastModifiedXmlPath = $null
-$sysReqUrl = "https://raw.githubusercontent.com/imumeshk/lc_tool/main/sys-req.json"
-$preReqUrl = "https://raw.githubusercontent.com/imumeshk/lc_tool/main/pre-req.json"
+$sysReqUrl = "https://raw.githubusercontent.com/imumeshk/LiteraCompare/main/Litera%20Compare%20Tool/sys-req.json"
+$preReqUrl = "https://raw.githubusercontent.com/imumeshk/LiteraCompare/main/Litera%20Compare%20Tool/pre-req.json"
 
 #==============================================================================
 # --- INITIALIZATION ---
@@ -4923,7 +4923,7 @@ $script:ChkTailLog.Add_Click({
 .DESCRIPTION
     This section contains the event handlers for the "Help" menu items, including "Check for Updates", "About", and "Settings".
 #>
-$latestVersionUrl = "https://raw.githubusercontent.com/imumeshk/lc_tool/refs/heads/main/updater.json"
+$latestVersionUrl = "https://raw.githubusercontent.com/imumeshk/LiteraCompare/main/Litera%20Compare%20Tool/updater.json"
 $currentVersion = "1.0.0"
 
 $script:CheckUpdatesMenuItem.Add_Click({
