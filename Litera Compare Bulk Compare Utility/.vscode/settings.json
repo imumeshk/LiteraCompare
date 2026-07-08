@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^powershell -NoProfile -Command \"& \\{ \\[System\\.Management\\.Automation\\.Language\\.Parser\\]::ParseFile\\('c:\\\\Users\\\\umesh\\.kashyap\\\\Desktop\\\\Desktop\\\\Projects\\\\Bulk Compare\\\\Bulk Compare\\.ps1', \\[ref\\]\\$null, \\[ref\\]\\$null\\); Write-Output 'PARSE_OK' \\}\"$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}
