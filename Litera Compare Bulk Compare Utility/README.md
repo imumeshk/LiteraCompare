@@ -2,6 +2,10 @@
 
 The Litera Compare Bulk Compare Utility is a powerful script designed to automate the process of comparing multiple documents using the Litera Compare engines. It features a graphical user interface (GUI) built in PowerShell that simplifies complex batch comparison tasks.
 
+<img width="1914" height="1123" alt="image" src="https://github.com/user-attachments/assets/623a7c99-ea70-4263-b0a4-4ad8ac56923c" />
+<img width="717" height="901" alt="image" src="https://github.com/user-attachments/assets/843c42d5-b705-4157-bf22-a9156ccb504d" />
+<img width="690" height="943" alt="image" src="https://github.com/user-attachments/assets/6027e681-6363-47b9-8ee3-917ee2791bc1" />
+
 ## Functionality
 
 This utility leverages the Litera Compare command-line executables (e.g., `lcp_auto.exe`, `lcp_main.exe`) to run automated, unattended comparisons. It allows users to select an original document (or a folder of original documents) and compare it against modified documents, generating redline output files (such as PDFs or Word documents) automatically.
